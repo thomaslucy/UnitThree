@@ -2,8 +2,8 @@ public class TrickyDice
 {
     public static void main(String[] args)
     {
-        regularRoll();
-        trickyRoll();
+        System.out.println(regularRoll());
+        System.out.println(trickyRoll());
     }
     public static int regularRoll()
     {
