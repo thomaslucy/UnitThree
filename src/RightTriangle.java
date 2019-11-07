@@ -23,7 +23,7 @@ public class RightTriangle {
             System.out.println("The side lengths of "+a+", "+b+", and "+c+" form a right triangle");
         else if (isTriangle(a,b,c) == true)
             System.out.println("The side lengths of "+a+", "+b+", and "+c+" form a triangle, but it is not a right triangle");
-        
+
 
 
     }
